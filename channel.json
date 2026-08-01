@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "slug": "learn-with-kody",
+  "title": "learn with kody",
+  "description": "Short build notes and project catch-ups from Kody.",
+  "home": "https://github.com/kody-w/rappvision-learnwithkody",
+  "baseUrl": "https://kody-w.github.io/catchup/",
+  "videos": [
+    {
+      "id": "catch-up-aug-1",
+      "title": "Catch-up — August 1",
+      "description": "what landed, what broke, and what is still queued.",
+      "duration": "1m17s",
+      "poster": "https://kody-w.github.io/catchup/poster.jpg",
+      "src": "https://kody-w.github.io/catchup/catch-up-aug-1.mp4",
+      "status": "published"
+    }
+  ]
+}
