@@ -1,24 +1,12 @@
-# learn with kody — rappvision channel
+# rappvision-learnwithkody — superseded
 
-This is the channel repo content for the first rappvision channel.
+> **Superseded by the canonical Learn with Kody channel**, which lives in the
+> site repo next to the examples it documents:
+> <https://kody-w.github.io/learnwithkody/rappvision/channel.json>
 
-It is designed to be published as `kody-w/rappvision-learnwithkody`. Once public, rappvision loads it from:
+This channel was created for a duplicate player (`kody-w/rappvision`) that has
+since been retired in favour of [`kody-w/rapp-vision`](https://github.com/kody-w/rapp-vision).
+It used an older, thinner channel schema (`poster`, no chapters, no `links[]`)
+that is not compatible with `rapp-vision-channel/1.0`.
 
-```text
-https://raw.githubusercontent.com/kody-w/rappvision-learnwithkody/main/channel.json
-```
-
-## Videos
-
-The channel currently has one published video:
-
-- **Catch-up — August 1** — `1m17s`
-  - Video: <https://kody-w.github.io/catchup/catch-up-aug-1.mp4>
-  - Poster: <https://kody-w.github.io/catchup/poster.jpg>
-  - Description: what landed, what broke, and what is still queued.
-
-No other video URLs or durations are included.
-
-## Schema
-
-See `channel.json`. Published videos include `src`; planned placeholders must use `"status": "planned"` and omit `src`.
+Nothing here is maintained. Archived.
